@@ -1,0 +1,4 @@
+v1
+{"path":"file:///Users/andrewotwell/Documents/DS-2002/project-2/spark-warehouse/chinook_dlh.db/fact_invoices/bronze/part-00000-f0b5ad0d-7ac8-41b0-8f23-49bbc9aacc75-c000.snappy.parquet","timestamp":1766207985739,"batchId":0}
+{"path":"file:///Users/andrewotwell/Documents/DS-2002/project-2/spark-warehouse/chinook_dlh.db/fact_invoices/bronze/part-00000-7bad1881-7f78-4adb-a902-595fc3abe1bc-c000.snappy.parquet","timestamp":1766207985973,"batchId":0}
+{"path":"file:///Users/andrewotwell/Documents/DS-2002/project-2/spark-warehouse/chinook_dlh.db/fact_invoices/bronze/part-00000-0753b3e3-db96-4afb-924c-6d7cb9ae2aaa-c000.snappy.parquet","timestamp":1766207986157,"batchId":0}

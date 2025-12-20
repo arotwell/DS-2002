@@ -1,0 +1,2 @@
+v1
+{"path":"file:///Users/andrewotwell/Documents/DS-2002/project-2/spark-warehouse/chinook_dlh.db/fact_invoices/silver/part-00000-f43b0847-e20f-493d-bc66-6d99c6b392c7-c000.snappy.parquet","size":1327,"isDir":false,"modificationTime":1766207988531,"blockReplication":1,"blockSize":33554432,"action":"add"}
