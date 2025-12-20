@@ -1,2 +1,2 @@
 v1
-{"path":"file:///Users/andrewotwell/Documents/DS-2002/project-2/spark-warehouse/chinook_dlh.db/fact_invoices/bronze/part-00000-7bad1881-7f78-4adb-a902-595fc3abe1bc-c000.snappy.parquet","size":18484,"isDir":false,"modificationTime":1766207985973,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/andrewotwell/Documents/DS-2002/project-2/spark-warehouse/chinook_dlh.db/fact_invoices/bronze/part-00000-b1238ef2-319e-4056-ad92-c627196deb75-c000.snappy.parquet","size":18485,"isDir":false,"modificationTime":1766214256273,"blockReplication":1,"blockSize":33554432,"action":"add"}
